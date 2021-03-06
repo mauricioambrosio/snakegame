@@ -1,8 +1,8 @@
 # snakegame
 
 I. to run the project open:
-A. SnakeGame on linux
-B. SnakeGame.exe on windows 
+1. SnakeGame on linux
+2. SnakeGame.exe on windows 
 
 
 II. to recompile the project do the following:
