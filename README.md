@@ -1,6 +1,6 @@
 # SnakeGame
 
-to compile the project do the following:
+to compile and run the project do the following:
 
 A. on unix:
 1. run: sudo apt-get install libncurses-dev
