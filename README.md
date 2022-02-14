@@ -24,6 +24,8 @@ Player 2 commands:
 3. left: J
 4. right: L
 
+Screenshots:
+
 ![image](https://user-images.githubusercontent.com/27931441/153889176-38b319eb-24b1-4445-a9ca-d5db48d7b8b0.png)
 
 ![image](https://user-images.githubusercontent.com/27931441/153889209-589e80c3-3c67-48d5-9cd0-8521af7e721c.png)
