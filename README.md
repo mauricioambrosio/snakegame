@@ -1,5 +1,14 @@
 # SnakeGame
 
+Normal snake is far too slow, and static for normal people. This snake game allows for 1 or 2 players, each with its own commands on the keyboard. 
+
+Just like normal snake, you start with a small snake, that not only grows when you eat, but also makes the game move faster and faster. The food is randomly generated on the board to make the game fair for both players. 
+
+To win, your opponent must crash into your tail, itself, or the walls. If you crash into each other you reach a draw.  Survive as long as you can when playing single player.
+The game implements the lcurses library to display the game state to the user(s), with an ‘X’ representing a wall, an ‘O’ representing the tail segment, an ‘H’ representing the head, and an ‘F’ representing food.
+
+To start, simply select the number of players, and play till the end. Have fun.
+
 to compile and run the project do the following:
 
 A. on unix:
@@ -36,7 +45,11 @@ Screenshots:
 
 ![image](https://user-images.githubusercontent.com/27931441/153889345-016d432a-1afe-4ad6-90e9-d37994e69fa1.png)
 
-![image](https://user-images.githubusercontent.com/27931441/153889358-bc577752-0b20-4fba-a60c-62d7685ad200.png)
+![image](https://user-images.githubusercontent.com/27931441/153891491-8ebf3f43-8f0e-40bd-b326-c6396cbae835.png)
+
+![image](https://user-images.githubusercontent.com/27931441/153891468-8f83f254-4e15-4413-8c86-d527dce5cd20.png)
+
+
 
 
 
